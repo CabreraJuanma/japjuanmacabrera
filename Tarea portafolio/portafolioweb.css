@@ -1,0 +1,52 @@
+body{
+    background-color: lavender;
+    font-family: Georgia, 'Times New Roman', Times, serif;   
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+.centrado{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+#primerp{
+    text-align: center;
+}
+
+#segundop{
+    text-align: center;
+    margin: 15px;
+}
+
+#experiencia{
+    text-align: center;
+    display: block;
+}
+
+#links{
+    text-align: center;
+    border:black 3px solid;
+    background-color: white;
+    position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      padding: 20px;
+      text-align: center;
+}
+
+.linkstamaño{
+    width: 1.2%;
+}
+
+
+
